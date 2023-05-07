@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
-<h3 align="center">A passionate developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kr1zz&label=Profile%20views&color=58db00&style=plastic" alt="kr1zz" /> </p>
+<h3 align="center">Just another passionate developer from India</h3>
 
 - 💬 Ask me about **python, nodejs, html, css, electron**
 
-- 📫 How to reach me **krishith.vadivel@gmail.com**
+- ⚡ Fun fact **Turns out, only computers listen to me nowadays :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kr1zz7007&show_icons=true&locale=en&layout=compact" alt="kr1zz7007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1zz7007&show_icons=true&theme=onedark&locale=en" alt="kr1zz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1zz7007&show_icons=true&locale=en" alt="kr1zz7007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1zz7007&" alt="kr1zz7007" /></p>
