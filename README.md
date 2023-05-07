@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <h3 align="center">Just another passionate developer from India</h3>
 
-- 💬 Ask me about **python, nodejs, html, css, electron**
+- 💬 Ask me about **Python, Nodejs, HTML, CSS, Electron**
 
 - ⚡ Fun fact **Turns out, only computers listen to me nowadays :(**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
